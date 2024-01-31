@@ -32,10 +32,17 @@ class ofApp : public ofBaseApp{
     ofxVec2Slider sat_range_;
     ofxVec2Slider val_range_;
     ofxFloatSlider red_threshold_;
-    ofxFloatSlider green_threshold_;
+    ofxIntSlider brightness_;
+    ofxVec2Slider lt_;
+    ofxVec2Slider rt_;
+    ofxVec2Slider lb_;
+    ofxVec2Slider rb_;
+    
+    ofFbo drawing_;
 
+    ofImage back_;
+    ofVideoGrabber camera_;
     ofVideoPlayer video_;
-    ofFbo zoom_;
     ofPixels pix_;
     ofPixels red_;
     ofTexture red_tex_;

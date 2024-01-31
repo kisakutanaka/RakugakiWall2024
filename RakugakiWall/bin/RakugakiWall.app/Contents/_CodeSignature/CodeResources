@@ -15,10 +15,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			mkDgeAwhWq3bPNGQKw+lnUTPXDg=
+			AYuBp7PUi8vlAeJzSa6Ja9RfNGs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"33274033d27cbbda991a3126f087addeeb177204" or cdhash H"9a40e0780c215aaddb3cd1902b0fa59d44cf5c38" or cdhash H"221c1602a27e847e2158da0c6ba367a9c9d6b658" or cdhash H"5aa3279be1f43b4ad6a0fb4efd47ffd27f5428ea"</string>
+			<string>cdhash H"30a8927be625eff97a95d3ed18f5f89c4443a858" or cdhash H"018b81a7b3d48bcbe501e27349ae896bd45f346b" or cdhash H"b8d9e77c899f5e4aa99edbbf57d4aaaf0acba414" or cdhash H"ca0c9d112cec237bcb28905adfd5a82eefbeaa4d"</string>
 		</dict>
 		<key>Resources/of.icns</key>
 		<dict>
